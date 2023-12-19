@@ -1,0 +1,1 @@
+Projeto de landing page feito com html e css, o projeto trata-se de uma pagina estática de uma barberia utilizando também das práticas de responsividade. Nessa landing page procurei botar em prática meus conhecimentos em desenvolvimento web  já que dessa forma aprendo cada vez mais.
